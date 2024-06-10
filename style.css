@@ -46,8 +46,14 @@ img {
     text-align:center;
 }
 footer {
-    background-color:#aa652d;
+    background-color: #aa652d;
     color: #ffffff;
+}
+footer p {
+    background-color: #aa652d;
+}
+footer a {
+    background-color: #aa652d;
 }
 a {
     font-size: 450px;
